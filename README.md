@@ -10,8 +10,7 @@ This is a simple Auth API, It provides endpoints for user authentication and pro
 
 
 
-## 🚀 About Me
-I'm a Backend developer...
+
 
 
 ## 🔗 Links
